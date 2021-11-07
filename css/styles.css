@@ -1,0 +1,11 @@
+:root {
+  --brand-color-title: #303030;
+  --brand-color-text: #555555;
+  --brand-color-text-light: #9da4bd;
+  --brand-color-focus: #ff6c00;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  background-color: #ffffff;
+}
